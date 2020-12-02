@@ -7,3 +7,6 @@ Here, we are talking about a supervised learning problem. This means we need a l
 The dataset used in this project is the BBC News Raw Dataset. It can be downloaded from https://github.com/MarehanRefaat/Text-Classification-BBC-Data-Set/blob/main/Text_Classification_BBC_DataSet.ipynb.
 It consists of 2.225 documents from the BBC news website corresponding to stories in five topical areas from 2004 to 2005. These areas are:
 Business - Entertainment - Politics - Sport -Tech
+
+# Submission on Kaggle:
+97%
